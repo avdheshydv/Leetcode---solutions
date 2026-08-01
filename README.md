@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1732-find-the-highest-altitude) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,8 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
