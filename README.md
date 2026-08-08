@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
