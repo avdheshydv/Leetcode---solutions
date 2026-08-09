@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
