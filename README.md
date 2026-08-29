@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1732-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0015-3sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
