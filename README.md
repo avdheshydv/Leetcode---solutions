@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2652-sum-multiples) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0074-search-a-2d-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
