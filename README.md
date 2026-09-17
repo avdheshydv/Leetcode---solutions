@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -103,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
