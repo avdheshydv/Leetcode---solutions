@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
+| [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
+| [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2652-sum-multiples) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
 | ------- |
