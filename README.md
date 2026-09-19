@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0242-valid-anagram) |
+| [0859-buddy-strings](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0859-buddy-strings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0709-to-lower-case) |
+| [0859-buddy-strings](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0859-buddy-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Union-Find
