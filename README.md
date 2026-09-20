@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
 | ------- |
@@ -165,4 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
