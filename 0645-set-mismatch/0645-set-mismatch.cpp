@@ -7,8 +7,8 @@ public:
     for(int i=0; i<n; i++){
      map[nums[i]]++;
     }
-    int missing=-1;
-    int duplicate=-1;
+    int missing=0;
+    int duplicate=0;
     for(int i=1; i<=n; i++){
       if(map[i]==2){
         duplicate=i;
