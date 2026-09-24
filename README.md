@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2652-sum-multiples](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
+| [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
