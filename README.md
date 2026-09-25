@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
