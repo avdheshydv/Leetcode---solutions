@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
 ## Pigeonhole Principle
