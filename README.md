@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
