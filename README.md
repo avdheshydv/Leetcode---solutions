@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
+| [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+| [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
