@@ -1,5 +1,14 @@
-# Leetcode---solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+A collection of my LeetCode problem solutions, maintained to track my
+DSA and competitive programming journey.
+
+**Author:** Avdhesh Yadav  
+**Language:** C++  
+**Purpose:** DSA practice and coding interview preparation
+
+I regularly solve and document LeetCode problems to improve my
+problem-solving skills, algorithmic thinking, and coding efficiency.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
