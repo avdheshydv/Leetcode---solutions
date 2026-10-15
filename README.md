@@ -43,6 +43,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -119,6 +120,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -248,4 +250,12 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
