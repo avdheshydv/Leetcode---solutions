@@ -60,6 +60,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | ------- |
 | [0048-rotate-image](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
@@ -75,6 +76,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -191,6 +193,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0258-add-digits) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
