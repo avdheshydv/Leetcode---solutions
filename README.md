@@ -30,6 +30,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0229-majority-element-ii](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0088-merge-sorted-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
