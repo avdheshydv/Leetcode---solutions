@@ -37,6 +37,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
 | [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -122,6 +123,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0859-buddy-strings) |
+| [1207-unique-number-of-occurrences](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
