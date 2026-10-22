@@ -16,6 +16,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
