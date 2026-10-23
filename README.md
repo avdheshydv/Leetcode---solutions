@@ -271,4 +271,5 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0595-big-countries) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
