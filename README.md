@@ -267,4 +267,8 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
