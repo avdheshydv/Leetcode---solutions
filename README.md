@@ -76,6 +76,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [3536-maximum-product-of-two-digits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -130,6 +131,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
