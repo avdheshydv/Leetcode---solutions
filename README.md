@@ -50,6 +50,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -59,6 +60,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +251,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
