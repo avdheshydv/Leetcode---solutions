@@ -39,6 +39,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -58,6 +59,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -71,6 +73,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2527-find-xor-beauty-of-array) |
@@ -118,6 +121,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0152-maximum-product-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
