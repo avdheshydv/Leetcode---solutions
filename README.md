@@ -100,6 +100,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0189-rotate-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1089-duplicate-zeros](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -169,6 +170,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0058-length-of-last-word](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0859-buddy-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
