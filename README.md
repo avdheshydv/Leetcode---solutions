@@ -33,6 +33,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0268-missing-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [0932-beautiful-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0932-beautiful-array) |
@@ -258,6 +259,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
