@@ -175,6 +175,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | [0345-reverse-vowels-of-a-string](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0859-buddy-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/avdheshydv/Leetcode---solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -260,6 +261,7 @@ problem-solving skills, algorithmic thinking, and coding efficiency.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/avdheshydv/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avdheshydv/Leetcode---solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avdheshydv/Leetcode---solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
